@@ -1,6 +1,6 @@
 # 说明
 
-![1702534983957](image/README/1702534983957.png)
+![1702534983957](doc/1.jpg)
 
 移植[FASTSHIFT](https://github.com/FASTSHIFT)的开源项目 [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) 到ESP-IDF平台.
 
